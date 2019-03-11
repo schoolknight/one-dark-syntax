@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "one-dark-syntax-todo",
   "theme": "syntax",
-  "version": "1.8.3",
-  "description": "A dark syntax theme",
+  "version": "0.1.1",
+  "description": "A dark syntax theme to fit todo grammar",
   "keywords": [
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "#",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
